@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>lock.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>logout-button-png-hi.png</file>
+  </qresource>
+  <qresource prefix="back">
+    <file>asd.jpg</file>
+  </qresource>
+  <qresource prefix="reset">
+    <file>reset2.png</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>cam.png</file>
+  </qresource>
+  <qresource prefix="btn">
+    <file>login.png</file>
+  </qresource>
+</RCC>
